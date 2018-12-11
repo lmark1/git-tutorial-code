@@ -26,5 +26,4 @@ Fork this repository, and then clone it by running the following command:
       ./lust.py
 
 ### Maintainers
- 
-Daria ima promjene u README
+Developed by:Daria
