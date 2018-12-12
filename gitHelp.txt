@@ -4,3 +4,4 @@ git branch <new_branch> <commit_id> 	- make new branch at commit id on current b
 git branch -d <branch name> 			- delete branch
 git push ---delete <remote> <branch_name>	- delete branch from node
 git clean -f								- remove unstaged files
+
