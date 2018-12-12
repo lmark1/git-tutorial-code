@@ -1,0 +1,6 @@
+git reset 								- unstage all changes
+git reset --soft / --hard <commit ID> 	- resetting current branch to commit_id
+git branch <new_branch> <commit_id> 	- make new branch at commit id on current branch
+git branch -d <branch name> 			- delete branch
+git push ---delete <remote> <branch_name>	- delete branch from node
+git clean -f								- remove unstaged files
